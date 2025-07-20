@@ -1,0 +1,17 @@
+
+========================= 📄 Employee Appraisal Report =========================
+Employee Name       : Priti
+Tickets Closed      : 30
+Tickets Remaining   : 4
+Disciplinary Actions: 0
+Self Review         : 8.5
+Manager Review      : 8.0
+Coworker Review     : 8.5
+Innovation Score    : 8.0
+Punctuality Score   : 9.0
+Joining Date        : 2023-07-01
+Current Salary (LPA): ₹12.00
+--------------------------------------------------------------------------------
+Appraisal Percent   : 15.00%
+New Salary (LPA)    : ₹13.80
+================================================================================

@@ -1,0 +1,17 @@
+
+========================= 📄 Employee Appraisal Report =========================
+Employee Name       : Kriti
+Tickets Closed      : 25
+Tickets Remaining   : 9
+Disciplinary Actions: 1
+Self Review         : 9.0
+Manager Review      : 7.5
+Coworker Review     : 7.6
+Innovation Score    : 7.0
+Punctuality Score   : 8.0
+Joining Date        : 2020-01-01
+Current Salary (LPA): ₹13.00
+--------------------------------------------------------------------------------
+Appraisal Percent   : 10.00%
+New Salary (LPA)    : ₹14.30
+================================================================================
