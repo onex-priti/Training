@@ -1,0 +1,8 @@
+Deposited ₹500
+Withdrawn ₹200
+Failed withdrawal: Insufficient balance.
+Final balance: ₹1300.0
+Deposited ₹500
+Withdrawn ₹200
+Failed withdrawal: Insufficient balance.
+Final balance: ₹1300.0
